@@ -1,0 +1,44 @@
+.bg {
+  background-color: aquamarine;
+  height: 100vh;
+}
+
+.contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+  margin-top: 150px;
+  border-radius: 10px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+  color: blue;
+}
+
+.image {
+  width: 450px;
+  padding: 20px;
+}
+
+.form {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 50px;
+  margin-left: 50px;
+  border-start-end-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.btn {
+  border: none;
+  margin-left: 5px;
+  background-color: unset;
+  
+}
